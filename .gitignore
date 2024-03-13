@@ -2,3 +2,4 @@ node_modules/
 dist/
 *.jar
 Thumbs.db
+public/
